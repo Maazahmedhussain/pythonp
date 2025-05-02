@@ -21,9 +21,10 @@
 
 # loops: It isa mechanism that reepates the task untll the condition is true
 
-for i in range(1,11,1):
-    print(i)
+for i in range(1,20,1):
+    print("hi",i)
     
     
-    
-    
+x=1
+x=x+1
+print(x)
