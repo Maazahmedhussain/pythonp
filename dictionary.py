@@ -4,7 +4,7 @@ dict={
     "salary": 40000
 }
 # print(dict["salary"])
-dict.update({"depart": "accounts"})
+dict.update({"depart": ":"  "accounts"})
 dict.update({"name": ":"  "hussain"})
 for i,j in dict.items():
     print(i,j)
