@@ -13,3 +13,4 @@ list=[2,4,3,5,7,8,8,9,11,23,14]
 z= filter(lambda x:x%2==0,list)
 for i in z :
     print(i ," is  a evan no    ")
+    
